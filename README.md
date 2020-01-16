@@ -44,3 +44,4 @@ Bitte ergänzen. Gibt es schon andere Projekte, die ähnliches verfolgen?
 
 - https://co2-rechner.at
 - https://www.klimaaktiv.at/ueber-uns/aktuelles/klimaaktiv_app.html
+- https://joulebug.com/ (JouleBug is the easy way to make your everyday habits more sustainable ...)
